@@ -1,74 +1,121 @@
-# 🏃 3D Parkour Game (AR/VR Hackathon Project)
+# 🌊 Velocity Rush – Treasure Hunt Adventure
 
 ## 📌 Description
-This is a 3D parkour game developed using the Zimension 3D platform.
 
-The game focuses on movement-based challenges such as jumping, passing obstacles, and performing actions to avoid different types of hazards like saw cutters, moving platforms, walls, and more.
+**Velocity Rush** is a 3D parkour-based adventure game developed using the Zimension 3D platform.
 
-Level 1 is designed as a training level where players learn the core mechanics of the game and prepare for upcoming advanced levels.
+The game follows the journey of a **warrior/explorer** who sets out on a mission to find a hidden treasure island. During the journey, a powerful cyclone destroys his ship, leaving him stranded on a mysterious island.
 
----
-
-## 🎮 Features
-- Jump and Double Jump mechanics  
-- Obstacle-based gameplay  
-- Parkour-style movement system  
-- Different obstacle types:
-  - Moving platforms  
-  - Saw cutters / blades  
-  - Walls and barriers  
-- Training-based Level 1 design  
-- Smooth progression system  
+To survive and continue his quest, the player must overcome a series of **parkour challenges** such as jumping, climbing, sliding, and navigating obstacles. Each level is designed to test the player's movement skills and decision-making.
 
 ---
 
-## 🧱 Level Design
+## 🎮 Gameplay Overview
 
-### 🟢 Level 1 (Training Level)
-- Basic jump platforms  
-- Gap crossing  
-- Introduction to obstacles  
-- Learning player movement  
-- Final exit leading to next level  
+### 🟢 Level 1 – Survival & Training
 
----
+* Player wakes up after a ship crash
+* Learns core mechanics:
 
-## 🚀 Tech Stack
-- Zimension 3D (No-code game development platform)  
-- Low-poly 3D assets  
-
----
-
-## ▶️ Gameplay Demo
-https://drive.google.com/file/d/1B8tbz0AFXA7-uSVOIf_UKaLuaKnbPBzZ/view?usp=sharing
+  * Jump
+  * push
+  * Collect
+  * Save
+* Faces basic obstacles and environment challenges
+* Objective: Escape the crash island
 
 ---
 
-## 🔗 Play the Game
-https://zimension3d.com/shrt/n9RzEj
+### 🔵 Level 2 – Path to Treasure (Planned / In Progress)
+
+* Player moves toward the main treasure island
+* Increased difficulty with complex obstacles
+* Precision-based jumps and moving platforms
+* Objective: Reach the hidden treasure location
 
 ---
 
-## 🧠 Future Improvements
-- Add Level 2 with moving and rotating obstacles  
-- Introduce advanced traps like rotating rods and swinging hammers  
-- Add timer-based challenges  
-- Improve game UI and visual effects  
-- Add sound effects and background music  
-- Create Level 3 as final challenge  
+## ✨ Key Features
+
+* 🏃 Smooth third-person parkour mechanics
+* 🌊 Stylized low-poly island environment
+* 🧠 Environmental storytelling (no interruptions in gameplay)
+* 🎯 Progressive difficulty across levels
+* 🔁 Checkpoint system for better user experience
+* 🌀 Teleport-based level transitions
 
 ---
 
-## 👨‍💻 Team Contribution
-- Game Design & Planning: Sourabh Nimbal, Nikhil Ugale, Om More  
-- Level Development:Sourabh Nimbal, Nikhil Ugale, Om More
+## 🧩 Game Concept
+
+The game combines **adventure storytelling** with **fast-paced parkour gameplay**.
+
+Instead of using cutscenes, the story is delivered through:
+
+* Environment design
+* Level progression
+* Visual cues
+
+This creates an immersive experience without interrupting gameplay.
 
 ---
 
-## 💡 Note
-This project demonstrates how no-code tools like Zimension can be used to quickly build interactive 3D games and prototype gameplay ideas.
+## 🛠️ Built With
+
+* Zimension 3D (Web-based Game Engine)
+* Low Poly Assets (PolyPizza & custom assets)
 
 ---
 
-## ⭐ Acknowledgement
-This project was created as part of a hackathon under the AR/VR theme.
+## 🚀 How to Play
+
+1. Start from the spawn point
+2. Follow the path and overcome obstacles
+3. Use parkour skills to survive and progress
+4. Reach checkpoints to save progress
+5. Complete the level and unlock the next stage
+
+---
+
+## 📷 Game Preview
+
+
+
+---
+
+## 📈 Future Improvements
+
+* 🎮 Additional levels with increasing difficulty
+* 🎥 Intro storytelling (optional cinematic)
+* 🔊 Sound effects and background music
+* 🧍 Character animations improvements
+* 🏆 Scoring and leaderboard system
+
+---
+
+## 👨‍💻 Team / Developer
+
+* Developed by: Sourabh Nimbal, Nikhil Ugale, Om More
+* Role: Game Design, UI/UX, Level Planning, Implementation
+
+---
+
+## 🎯 Evaluation Highlights
+
+* ✔ Feasibility – Fully functional and playable
+* ✔ Innovation – Story integrated within gameplay
+* ✔ Novelty – Movement-based adventure experience
+
+---
+
+## 📜 License
+
+This project is developed for educational and project purposes.
+
+---
+
+## ⭐ Acknowledgment
+
+Special thanks to open-source asset providers and tools that helped in building this project.
+
+---
